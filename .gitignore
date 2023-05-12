@@ -1,0 +1,4 @@
+server/node_modules
+client/fileup/node_modules
+client/fileup/package-lock.json
+server/package-lock.json
